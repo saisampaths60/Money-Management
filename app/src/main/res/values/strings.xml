@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Money Management</string>
+
+    <string-array name="transactionStates">
+        <item>Credit</item>
+        <item>Debit</item>
+    </string-array>
+
+    <string-array name="sources">
+        <item>Paytm</item>
+        <item>HDFC</item>
+        <item>SBI</item>
+        <item>KOTAK</item>
+        <item>Airtel Payments Bank</item>
+        <item>Amazon Pay</item>
+        <item>Wallet</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
